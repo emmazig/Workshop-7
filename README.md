@@ -1,6 +1,6 @@
 # Workshop-7
 
-this is the URl : https://emmazig.github.io/Workshop-7/
+this is the URl : https://emmazig.github.io/Workshop-task-7/
 
 Object = something in Java script that contains data, a way of organising code.
 
